@@ -1,0 +1,1 @@
+The Travel Web Page is a user-friendly website designed to help people explore travel destinations, plan trips, and book travel services online.The main goal of this project is to provide travelers with all essential information—such as destinations, packages, accommodation, and contact details—on a single platform.
